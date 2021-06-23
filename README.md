@@ -7,4 +7,5 @@ Feel free to take a look behind the hood to see what code I used for this simple
 ## Contact
 
 Email: sarakatewilson98@gmail.com
+<br>
 github: sawi4644
